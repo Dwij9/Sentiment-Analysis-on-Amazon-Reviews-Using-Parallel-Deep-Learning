@@ -1,9 +1,5 @@
 # Sentiment Analysis on Amazon Customer Reviews Using Parallel Deep Learning
 
-**CSYE7105 – High Performance Parallel Machine Learning & AI**
-**Team 14:** Dwij Patel and Darshak Desai
-**Instructor:** Prof. Handan Liu
-
 ## Overview
 
 This project leverages parallel computing to improve the performance of sentiment analysis on ~3.5 million Amazon customer reviews. It uses:
